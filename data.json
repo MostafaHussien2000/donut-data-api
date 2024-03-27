@@ -1,0 +1,60 @@
+{
+    "products" : [
+        {
+            "id": 12245,
+            "name": "Sugary Donut",
+            "price": 1.99,
+            "quantity": 200,
+            "image": "/products/12245.png",
+            "rate": 0.91
+        },
+        {
+            "id": 12246,
+            "name": "Chocolate Frosted",
+            "price": 2.50,
+            "quantity": 110,
+            "image": "/products/12246.png",
+            "rate": 0.85
+        },
+        {
+            "id": 12247,
+            "name": "Raspberry Glazed",
+            "price": 2.50,
+            "quantity": 150,
+            "image": "/products/12247.png",
+            "rate": 0.80
+        },
+        {
+            "id": 12248,
+            "name": "Chocolate Speculoos",
+            "price": 3,
+            "quantity": 142,
+            "image": "/products/12248.png",
+            "rate": 0.80
+        },
+        {
+            "id": 12249,
+            "name": "Maple Drizzle",
+            "price": 3.50,
+            "quantity": 200,
+            "image": "/products/12249.png",
+            "rate": 0.81
+        },
+        {
+            "id": 12250,
+            "name": "Cotton Candy",
+            "price": 3.50,
+            "quantity": 100,
+            "image": "/products/12250.png",
+            "rate": 0.81
+        },
+        {
+            "id": 12251,
+            "name": "Dragon Food",
+            "price": 2.40,
+            "quantity": 60,
+            "image": "/products/12251.png",
+            "rate": 0.81
+        }
+    ]
+}
